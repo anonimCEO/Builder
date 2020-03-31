@@ -1,0 +1,7 @@
+/.idea/
+/workspace.xml
+.gitignore
+*.iml
+/out/
+**/target/**
+/.gitignore
